@@ -1,0 +1,29 @@
+#topo{
+  height: 90px;
+  background-color: #e6e6e6;
+}
+
+.navbar-collapse{
+  position: relative;
+  top: 20px;
+}
+
+.estilo{
+	position: relative;
+	left: 25%;
+	text-align: center;
+	max-width: 700px;
+  background-image : url('img/10.jpg');
+}
+.section{
+  background-color: #e6e6e6;
+}
+#rodape{
+  position: relative;
+  left: 100px;
+}
+
+#logo{
+	min-height: 70px;
+	
+}
