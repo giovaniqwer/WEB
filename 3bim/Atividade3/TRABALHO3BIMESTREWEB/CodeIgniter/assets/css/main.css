@@ -1,0 +1,32 @@
+#telainicial a {
+	text-decoration: none
+}
+
+#telainicial{
+	margin-left: 15%;
+	margin-top: 8%;
+	width: 70%;
+}
+
+#telacadastro{
+	margin-left: 5%;
+	margin-top: 2%;
+	width: 70%;
+}
+#formulario{
+	text-align: left;
+}
+
+#formulario h3{
+	text-align: left;
+}
+
+#telacadastro input {
+	width: 50%;
+	height: 5%; 
+	border-radius: 4px;
+}
+txt_nome{
+	float:rigth;
+}
+
